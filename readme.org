@@ -1,8 +1,17 @@
 #+STARTUP: nofold
 #+HTML: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-#+HTML: <img src="https://user-images.githubusercontent.com/18245694/87717402-9c611100-c7b0-11ea-9db6-2348e478272b.png" width="240px" align="right" alt="vednoc's avatar image"/>
+#+HTML: <img src="https://user-images.githubusercontent.com/18245694/87717402-9c611100-c7b0-11ea-9db6-2348e478272b.png" width="268px" align="right" alt="vednoc's avatar image"/>
 #+HTML: </a>
 
 * Howdy
-
 Welcome to my profile.
+
+*** About
+I'm a full-time /Software and Data Engineering/ student. In my free time I like
+researching various things and developing tools. Below you'll be able to see my
+open-sourced projects.
+
+*** Contact
+If you'd like to contact me, see my website. You can also find me on GitLab!
+
+[[https://vednoc.me][My website/blog]] · [[https://gitlab.com/vednoc][GitLab]] · [[https://discord.gg/NpT8PzA][Discord]]
