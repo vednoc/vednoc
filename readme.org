@@ -1,8 +1,6 @@
 #+STARTUP: nofold
-#+HTML: <div align="center">
-#+HTML: <img src="https://avatars1.githubusercontent.com/u/18245694" width="96" height="96"/>
+#+HTML: <img src="https://user-images.githubusercontent.com/18245694/87717402-9c611100-c7b0-11ea-9db6-2348e478272b.png" width="240px" align="right"/>
 
 * Howdy
-Welcome to my profile.
 
-#+HTML: </div>
+Welcome to my profile.
