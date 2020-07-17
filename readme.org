@@ -14,4 +14,4 @@ open-sourced projects.
 *** Contact
 If you'd like to contact me, see my website. You can also find me on GitLab!
 
-[[https://vednoc.me][My website/blog]] · [[https://gitlab.com/vednoc][GitLab]] · [[https://discord.gg/NpT8PzA][Discord]]
+[[https://vednoc.me][My website/blog]] · [[https://gitlab.com/vednoc][GitLab]] · [[https://discord.gg/NpT8PzA][Discord]] · [[https://blush.design/collections/open-peeps/builder/jpTTZB5mr?bg=03e285][OpenPeeps avatar]]
